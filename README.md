@@ -2,6 +2,10 @@
 
 - 🔭 I’m currently working on [operating-system](https://github.com/suhas-pai/operating-system)
 - 🌱 I’m currently learning about compilers, programming language development, and LLVM
+
+Learn more on my Resume:
+![Resume](Resume.png)
+
 <!--
 **suhas-pai/suhas-pai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
