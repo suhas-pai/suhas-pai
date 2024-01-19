@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [operating-system](https://github.com/suhas-pai/operating-system)
-- 🌱 I’m currently learning about compilers, programming language development, and LLVM
+- 🔭 I’m currently working on [Aphrodite](https://github.com/suhas-pai/Aphrodite)
+- 🌱 I’m currently learning more about operating system internals, compilers, programming language development, and LLVM
 
 Learn more on my Resume:
 ![Resume](Resume.png)
