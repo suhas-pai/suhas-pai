@@ -1,10 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
-- 🔭 I’m currently working on [Aphrodite](https://github.com/suhas-pai/Aphrodite)
-- 🌱 I’m currently learning more about operating system internals, compilers, programming language development, and LLVM
+- 🔭 I’m currently working on [Aphrodite](https://github.com/suhas-pai/Aphrodite), [compiler](https://github.com/suhas-pai/compiler), and [react-twitter](https://github.com/suhas-pai/react-twitter)
+- 🌱 I’m currently learning more about operating systems, compilers, programming languages, LLVM, and full stack web development
 
 Learn more on my Resume:
 ![Resume](Resume.png)
+![Resume-2](Resume-2.png)
 
 <!--
 **suhas-pai/suhas-pai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
