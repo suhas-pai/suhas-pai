@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on [Aphrodite](https://github.com/suhas-pai/Aphrodite), [compiler](https://github.com/suhas-pai/compiler), and [react-twitter](https://github.com/suhas-pai/react-twitter)
+- 🔭 I’m currently working on [Aeneas](https://github.com/suhas-pai/Aeneas), [compiler](https://github.com/suhas-pai/compiler), and [react-twitter](https://github.com/suhas-pai/react-twitter)
 - 🌱 I’m currently learning more about operating systems, compilers, programming languages, LLVM, and full stack web development
 
 Learn more on my Resume:
